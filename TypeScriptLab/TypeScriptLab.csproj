@@ -21,7 +21,7 @@
     <Content Include="01_Helloworld\01_Helloworld.js" />
     <Content Include="02_Interface\02_Interface.html" />
     <Content Include="02_Interface\02_Interface.js" />
-    <Content Include="03_Modules-1-SplittingFiles\Test.html" />
+    <Content Include="04_Modules-1-SplittingFiles\Test.html" />
     <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -39,15 +39,15 @@
     <TypeScriptCompile Include="00_BasicTypes\00_BasicTypes.ts" />
     <TypeScriptCompile Include="01_Helloworld\01_Helloworld.ts" />
     <TypeScriptCompile Include="02_Interface\02_Interface.ts" />
-    <TypeScriptCompile Include="03_Modules-0-Basic\03_Modules-0-Basic.ts" />
-    <TypeScriptCompile Include="03_Modules-1-SplittingFiles\LettersOnlyValidator.ts" />
-    <TypeScriptCompile Include="03_Modules-1-SplittingFiles\Test.ts" />
-    <TypeScriptCompile Include="03_Modules-1-SplittingFiles\Validation.ts" />
-    <TypeScriptCompile Include="03_Modules-1-SplittingFiles\ZipCodeValidator.ts" />
-    <TypeScriptCompile Include="03_Modules-2-GoingExternal\LettersOnlyValidator.ts" />
-    <TypeScriptCompile Include="03_Modules-2-GoingExternal\Test.ts" />
-    <TypeScriptCompile Include="03_Modules-2-GoingExternal\Validation.ts" />
-    <TypeScriptCompile Include="03_Modules-2-GoingExternal\ZipCodeValidator.ts" />
+    <TypeScriptCompile Include="04_Modules-0-Basic\03_Modules-0-Basic.ts" />
+    <TypeScriptCompile Include="04_Modules-1-SplittingFiles\LettersOnlyValidator.ts" />
+    <TypeScriptCompile Include="04_Modules-1-SplittingFiles\Test.ts" />
+    <TypeScriptCompile Include="04_Modules-1-SplittingFiles\Validation.ts" />
+    <TypeScriptCompile Include="04_Modules-1-SplittingFiles\ZipCodeValidator.ts" />
+    <TypeScriptCompile Include="04_Modules-2-GoingExternal\LettersOnlyValidator.ts" />
+    <TypeScriptCompile Include="04_Modules-2-GoingExternal\Test.ts" />
+    <TypeScriptCompile Include="04_Modules-2-GoingExternal\Validation.ts" />
+    <TypeScriptCompile Include="04_Modules-2-GoingExternal\ZipCodeValidator.ts" />
     <TypeScriptCompile Include="Scripts\typings\jquery\jquery.d.ts" />
   </ItemGroup>
   <ItemGroup />
