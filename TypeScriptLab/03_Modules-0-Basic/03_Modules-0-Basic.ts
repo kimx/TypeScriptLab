@@ -12,6 +12,7 @@ module ModuleFunc {
         this.name = name;
     }
     function hello() {
+        
         alert(this.name);
     }
     return init;

@@ -27,6 +27,7 @@
   <ItemGroup>
     <Content Include="01_Helloworld\01_Helloworld.js.map" />
     <Content Include="02_Interface\02_Interface.js.map" />
+    <Content Include="packages.config" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
     </None>
@@ -47,6 +48,7 @@
     <TypeScriptCompile Include="03_Modules-2-GoingExternal\Test.ts" />
     <TypeScriptCompile Include="03_Modules-2-GoingExternal\Validation.ts" />
     <TypeScriptCompile Include="03_Modules-2-GoingExternal\ZipCodeValidator.ts" />
+    <TypeScriptCompile Include="Scripts\typings\jquery\jquery.d.ts" />
   </ItemGroup>
   <ItemGroup />
   <PropertyGroup>
