@@ -19,14 +19,15 @@
   <ItemGroup>
     <Content Include="01_Helloworld\01_Helloworld.html" />
     <Content Include="01_Helloworld\01_Helloworld.js" />
-    <Content Include="02_Interface\02_Interface.html" />
-    <Content Include="02_Interface\02_Interface.js" />
+    <Content Include="02_Interface\0_Interface.html" />
+    <Content Include="02_Interface\0_Interface.js" />
+    <Content Include="03_Classes\1-Inheritance.html" />
     <Content Include="04_Modules-1-SplittingFiles\Test.html" />
     <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="01_Helloworld\01_Helloworld.js.map" />
-    <Content Include="02_Interface\02_Interface.js.map" />
+    <Content Include="02_Interface\0_Interface.js.map" />
     <Content Include="packages.config" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
@@ -38,7 +39,16 @@
   <ItemGroup>
     <TypeScriptCompile Include="00_BasicTypes\00_BasicTypes.ts" />
     <TypeScriptCompile Include="01_Helloworld\01_Helloworld.ts" />
-    <TypeScriptCompile Include="02_Interface\02_Interface.ts" />
+    <TypeScriptCompile Include="02_Interface\0_Interface.ts" />
+    <TypeScriptCompile Include="02_Interface\1_OurFirstInterface.ts" />
+    <TypeScriptCompile Include="02_Interface\2_OptionalProperties.ts" />
+    <TypeScriptCompile Include="02_Interface\3_FunctionTypes.ts" />
+    <TypeScriptCompile Include="02_Interface\4_ArrayTypes.ts" />
+    <TypeScriptCompile Include="02_Interface\5_ClassTypes.ts" />
+    <TypeScriptCompile Include="02_Interface\6_EntendingInterface.ts" />
+    <TypeScriptCompile Include="02_Interface\7_HybirdTypes.ts" />
+    <TypeScriptCompile Include="03_Classes\0-Classes.ts" />
+    <TypeScriptCompile Include="03_Classes\1-Inheritance.ts" />
     <TypeScriptCompile Include="04_Modules-0-Basic\03_Modules-0-Basic.ts" />
     <TypeScriptCompile Include="04_Modules-1-SplittingFiles\LettersOnlyValidator.ts" />
     <TypeScriptCompile Include="04_Modules-1-SplittingFiles\Test.ts" />

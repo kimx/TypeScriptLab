@@ -14,4 +14,4 @@ function greeter(person) {
 
 var user = new Student("Kim", "M.", "Hsu");
 document.writeln(greeter(user));
-//# sourceMappingURL=02_Interface.js.map
+//# sourceMappingURL=0_Interface.js.map
