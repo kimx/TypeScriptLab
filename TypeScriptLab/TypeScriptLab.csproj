@@ -58,6 +58,8 @@
     <TypeScriptCompile Include="04_Modules-2-GoingExternal\Test.ts" />
     <TypeScriptCompile Include="04_Modules-2-GoingExternal\Validation.ts" />
     <TypeScriptCompile Include="04_Modules-2-GoingExternal\ZipCodeValidator.ts" />
+    <TypeScriptCompile Include="04_Modules-export\KimModule.ts" />
+    <TypeScriptCompile Include="04_Modules-export\Main.ts" />
     <TypeScriptCompile Include="Scripts\typings\jquery\jquery.d.ts" />
   </ItemGroup>
   <ItemGroup />
